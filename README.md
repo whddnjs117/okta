@@ -14,5 +14,5 @@
   ![레지스트리 편집기](./image/편집기.png)   
   >4.나머지 오라클 파일 삭제 C:\Program Files\Oracle 제거   
 
-  >5.오라클 설치후 cmd - sqlplus로 버전확인 
+  >5.오라클 설치후 cmd - sqlplus로 버전확인   
   ![오라클 버전 확인](./image/버전확인.png)
